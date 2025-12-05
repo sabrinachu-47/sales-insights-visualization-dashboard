@@ -83,22 +83,22 @@ This project performs an end-to-end analysis of sales and customer data to uncov
 ## Installation
 
 ### 1. Clone the repository
-\`\`\`bash
+```bash
 git clone https://github.com/sabrinachu-47/sales-insights-visualization-dashboard.git
 cd sales-insights-visualization-dashboard
-\`\`\`
+```
 
 ### 2. Install core dependencies
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 ### Optional: Install Streamlit for dashboard
-\`\`\`bash
+```bash
 pip install streamlit
-\`\`\`
+```
 
 ### Optional: Install PDF reporting library
-\`\`\`bash
+```bash
 pip install fpdf
-\`\`\`
+```
