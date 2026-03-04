@@ -2,6 +2,13 @@
 
 This project performs an end-to-end analysis of sales and customer data to uncover key insights, identify customer segments, and support data-driven decision-making. It includes exploratory analysis, visualizations, machine learning modeling, automated PDF report generation, and a Streamlit-based dashboard for interactive exploration.
 
+## 📊 View the Full Analysis
+
+The full data analysis, code, and visualizations are contained in the Jupyter Notebook:
+
+👉 **[Open the Notebook](./Sabrina114Project%20(3).ipynb)**
+
+GitHub will render the notebook with all charts and outputs directly in the browser.
 ---
 
 ## Table of Contents
