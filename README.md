@@ -6,7 +6,7 @@ This project performs an end-to-end analysis of sales and customer data to uncov
 
 The full data analysis, code, and visualizations are contained in the Jupyter Notebook:
 
-👉 **[Open the Notebook](./Sabrina114Project%20(3).ipynb)**
+👉 **[Open the Notebook](./sales_insight.ipynb)**
 
 GitHub will render the notebook with all charts and outputs directly in the browser.
 ---
